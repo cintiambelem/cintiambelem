@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello, I'm Cíntia Belém, brazilian Java developer 😀
 
-<!--
-**cintiambelem/cintiambelem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
+##### 💻 I’m currently working with Back-end at Capgemini.
+##### 📖 I’m currently learning Java and Google Cloud Platform.
+##### 💛 Love: technology, coffe, people and social transformation.
+</br>
+<div align="center">
+<a href="https://github.com/cintiambelem">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintiambelem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintiambelem&layout=compact&langs_count=7&theme=dracula"/></div>
+</br>
 
-Here are some ideas to get you started:
+#
+### **Technologies:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+<img align="center" alt ="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="center" alt ="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white/">
+<img align="center" alt ="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt ="googlecloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)"></div> </br>
+
+#
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-belem/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cintiambelem@gmail.com)</br>
+
+
+
+
+
+
+
+
+
