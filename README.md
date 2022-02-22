@@ -1,7 +1,6 @@
 ### Hello, I'm Cíntia Belém, brazilian Java developer 😀
 
 #### About me:
-##### 💻 I’m currently working with Back-end at Capgemini.
 ##### 📖 I’m currently learning Java and Google Cloud Platform.
 ##### 💛 Love: technology, coffe, people and social transformation.
 </br>
