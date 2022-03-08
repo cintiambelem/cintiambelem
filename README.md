@@ -2,7 +2,7 @@
 
 #### About me:
 ##### 📖 I’m currently learning Java and Google Cloud Platform.
-##### 💛 Love: technology, coffe, people and social transformation.
+##### 💛 Love: technology, coffee, people and social transformation.
 </br>
 <div align="center">
 <a href="https://github.com/cintiambelem">
