@@ -1,7 +1,7 @@
-### Hello, I'm Cíntia Belém, brazilian Java developer 😀
+### Hello, I'm Cíntia Belém, brazilian Java and Kotlin developer 😀
 
 #### About me:
-##### 📖 I’m currently learning Java and Google Cloud Platform.
+##### 📖 I’m currently learning Kotlin and Google Cloud Platform.
 ##### 💛 Love: technology, coffee, people and social transformation.
 </br>
 <div align="center">
